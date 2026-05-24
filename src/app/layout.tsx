@@ -20,6 +20,9 @@ export const metadata: Metadata = {
     locale: "de_DE",
     siteName: "HandyLaptopVergleich.de",
   },
+  other: {
+    "google-adsense-account": "ca-pub-7676593353613357",
+  },
 };
 
 export default function RootLayout({
